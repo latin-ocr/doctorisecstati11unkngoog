@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisecstati11unkngoog_0702.png"; bbox 0 0 4359 6250; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1321 1882 3453 3790">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1321 1882 3453 3790">
+     <span class='ocr_line' id='line_1_1' title="bbox 1321 1882 3453 3790; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1321 1882 3453 3790; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1535 5233 3241 5400">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1535 5233 3241 5400">
+     <span class='ocr_line' id='line_1_2' title="bbox 1535 5233 3241 5311; baseline -0.002 -19"><span class='ocrx_word' id='word_1_2' title='bbox 1535 5236 1705 5311; x_wconf 80' lang='lat' dir='ltr'>Typis</span> <span class='ocrx_word' id='word_1_3' title='bbox 1741 5236 2017 5294; x_wconf 79' lang='lat' dir='ltr'><strong>Cartusiae</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2054 5239 2284 5294; x_wconf 81' lang='lat' dir='ltr'><strong>Sanctae</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2317 5236 2513 5295; x_wconf 73' lang='lat' dir='ltr'><strong>Mariae</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2550 5238 2620 5294; x_wconf 88' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2659 5235 2861 5293; x_wconf 77' lang='lat' dir='ltr'><strong>Pratis.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2904 5233 3241 5292; x_wconf 77' lang='lat' dir='ltr'><strong>Monstrolii.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1996 5325 2786 5400; baseline 0.001 -18"><span class='ocrx_word' id='word_1_9' title='bbox 1996 5327 2044 5383; x_wconf 85' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2083 5329 2336 5382; x_wconf 55' lang='lat' dir='ltr'>Amnum&amp;</span> <span class='ocrx_word' id='word_1_11' title='bbox 2372 5325 2786 5400; x_wconf 76' lang='lat' dir='ltr'><strong>typographus,</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
